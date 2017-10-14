@@ -1,0 +1,17 @@
+
+Hadoop 2.4.0 Under Different Distributed File System.
+
+	---Alluxio(newest Version)
+	---NRFS(Implemented by Youmin and Weijian)
+	---HDFS(Default filesytem under Hadoop)
+
+For Alluxio and NRFS, please start DFS and Yarn first with
+primary configuration, and update your corresponding conf-
+iguration file later.
+
+When runing benchmark(such as WordCount, TeraGen...), please
+add full path at the end of your command.
+(eg. ./bin/hadoop jar ...example.jar wordcount nrfs:///a nrfs:///b)
+
+TestDFSIO is designed with built-in file path, How to solve it?
+

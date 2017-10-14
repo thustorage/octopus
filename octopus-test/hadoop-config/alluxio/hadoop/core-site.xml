@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="configuration.xsl"?>
+<!--
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License. See accompanying LICENSE file.
+-->
+
+<!-- Put site-specific property overrides in this file. -->
+
+<configuration>
+<!--
+<property>
+  <name>fs.nrfs.impl</name>
+  <value>org.apache.hadoop.fs.nrfs.RDMAFileSystem</value>
+  <description>The FileSystem API to use.</description>
+</property>
+<property>
+  <name>fs.AbstractFileSystem.nrfs.impl</name>
+  <value>org.apache.hadoop.fs.local.NRfs</value>
+  <description>(Hadoop 2.x)</description>
+</property>
+<property>
+  <name>fs.defaultFS</name>
+  <value>nrfs:///</value>
+  <description>The default name that hadoop uses to represent file as a URI.</description>
+</property>
+-->
+<property>
+  <name>fs.defaultFS</name>
+  <value>alluxio://e2102:19998/</value>
+  <description>HDFS should *not* use LustreFS.
+  </description>
+</property>
+<property>
+  <name>fs.alluxio.impl</name>
+  <value>alluxio.hadoop.FileSystem</value>
+  <description>The Alluxio FileSystem (Hadoop 1.x and 2.x)</description>
+</property>
+<property>
+  <name>fs.alluxio-ft.impl</name>
+  <value>alluxio.hadoop.FaultTolerantFileSystem</value>
+  <description>The Alluxio FileSystem (Hadoop 1.x and 2.x) with fault tolerant support</description>
+</property>
+<property>
+  <name>fs.AbstractFileSystem.alluxio.impl</name>
+  <value>alluxio.hadoop.AlluxioFileSystem</value>
+  <description>The Alluxio AbstractFileSystem (Hadoop 2.x)</description>
+</property>
+<property>
+  <name>io.file.buffer.size</name>
+  <value>1048576</value>
+  <description>The default buffer size.</description>
+</property>
+</configuration>

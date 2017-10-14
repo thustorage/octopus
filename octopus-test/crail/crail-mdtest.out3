@@ -1,0 +1,78 @@
+round 1
+zsh:1: no matches found: /mnt/huge/*
+Connection to 10.0.2.82 closed.
+zsh:1: no matches found: /mnt/huge/*
+Connection to 10.0.2.83 closed.
+zsh:1: no matches found: /mnt/huge/*
+Connection to 10.0.2.87 closed.
+log4j:WARN No appenders could be found for logger (com.ibm.crail).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+MappedBufferCache: allocated 1073741824
+DirectBufferCache: allocated a new buffer capacity: 1048576
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 1048576
+mkdir
+opnum = 258 time = 78 rate = 3307
+mknod
+opnum = 1548 time = 355 rate = 4360
+statfile
+opnum = 1548 time = 56 rate = 27642
+statdir
+opnum = 258 time = 8 rate = 32250
+rmnod
+opnum = 1548 time = 86 rate = 18000
+rmdir
+opnum = 258 time = 6 rate = 43000
+round 2
+zsh:1: no matches found: /mnt/huge/*
+Connection to 10.0.2.82 closed.
+zsh:1: no matches found: /mnt/huge/*
+Connection to 10.0.2.83 closed.
+zsh:1: no matches found: /mnt/huge/*
+Connection to 10.0.2.87 closed.
+log4j:WARN No appenders could be found for logger (com.ibm.crail).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+log4j:WARN No appenders could be found for logger (com.ibm.crail).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+MappedBufferCache: allocated 1073741824
+DirectBufferCache: allocated a new buffer capacity: 1048576
+MappedBufferCache: allocated 1073741824
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+DirectBufferCache: allocated a new buffer capacity: 1048576
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 1048576
+mkdir
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 1048576
+mkdir
+opnum = 516 time = 78 rate = 6615
+mknod
+mknod
+Exception in thread "main" Exception in thread "main" java.util.concurrent.ExecutionException: java.io.IOException: createFile: ERROR: No free blocks, error 11
+	at com.ibm.crail.core.CoreMetaDataOperation.get(CoreMetaDataOperation.java:97)
+	at CrailPerformance.createFile(CrailPerformance.java:43)
+	at CrailPerformance.createMultipleFiles(CrailPerformance.java:139)
+	at CrailPerformance.createMultipleFiles(CrailPerformance.java:147)
+	at CrailPerformance.createMultipleFiles(CrailPerformance.java:147)
+	at CrailPerformance.main(CrailPerformance.java:303)
+Caused by: java.io.IOException: createFile: ERROR: No free blocks, error 11
+	at com.ibm.crail.core.CoreFileSystem._createFile(CoreFileSystem.java:155)
+	at com.ibm.crail.core.CreateFileFuture.process(CoreMetaDataOperation.java:163)
+	at com.ibm.crail.core.CreateFileFuture.process(CoreMetaDataOperation.java:147)java.util.concurrent.ExecutionException: java.io.IOException: createFile: ERROR: No free blocks, error 11
+
+	at com.ibm.crail.core.CoreMetaDataOperation.get(CoreMetaDataOperation.java:84)
+	... 5 more
+	at com.ibm.crail.core.CoreMetaDataOperation.get(CoreMetaDataOperation.java:97)
+	at CrailPerformance.createFile(CrailPerformance.java:43)
+	at CrailPerformance.createMultipleFiles(CrailPerformance.java:139)
+	at CrailPerformance.createMultipleFiles(CrailPerformance.java:147)
+	at CrailPerformance.createMultipleFiles(CrailPerformance.java:147)
+	at CrailPerformance.main(CrailPerformance.java:303)
+Caused by: java.io.IOException: createFile: ERROR: No free blocks, error 11
+	at com.ibm.crail.core.CoreFileSystem._createFile(CoreFileSystem.java:155)
+	at com.ibm.crail.core.CreateFileFuture.process(CoreMetaDataOperation.java:163)
+	at com.ibm.crail.core.CreateFileFuture.process(CoreMetaDataOperation.java:147)
+	at com.ibm.crail.core.CoreMetaDataOperation.get(CoreMetaDataOperation.java:84)
+	... 5 more

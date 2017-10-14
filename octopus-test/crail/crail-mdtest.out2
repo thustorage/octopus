@@ -1,0 +1,2253 @@
+round 1
+log4j:WARN No appenders could be found for logger (com.ibm.crail).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+MappedBufferCache: allocated 1073741824
+DirectBufferCache: allocated a new buffer capacity: 4096
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+opnum = 258 time = 127 rate = 2031
+mknod
+opnum = 1548 time = 323 rate = 4792
+statfile
+opnum = 1548 time = 80 rate = 19350
+statdir
+opnum = 258 time = 249 rate = 1036
+rmnod
+opnum = 1548 time = 133 rate = 11639
+rmdir
+opnum = 258 time = 4 rate = 64500
+round 2
+log4j:WARN No appenders could be found for logger (com.ibm.crail).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+log4j:WARN No appenders could be found for logger (com.ibm.crail).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+MappedBufferCache: allocated 1073741824
+MappedBufferCache: allocated 1073741824
+DirectBufferCache: allocated a new buffer capacity: 4096
+DirectBufferCache: allocated a new buffer capacity: 4096
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+opnum = 516 time = 115 rate = 4486
+mknod
+mknod
+statfile
+opnum = 3096 time = 310 rate = 9987
+statfile
+statdir
+rmnod
+opnum = 3096 time = 291 rate = 10639
+statdir
+opnum = 516 time = 6 rate = 86000
+rmnod
+rmdir
+opnum = 3096 time = 187 rate = 16556
+rmdir
+opnum = 516 time = 5 rate = 103200
+round 3
+log4j:WARN No appenders could be found for logger (com.ibm.crail).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+log4j:WARN No appenders could be found for logger (com.ibm.crail).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+log4j:WARN No appenders could be found for logger (com.ibm.crail).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+MappedBufferCache: allocated 1073741824
+MappedBufferCache: allocated 1073741824
+MappedBufferCache: allocated 1073741824
+DirectBufferCache: allocated a new buffer capacity: 4096
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+DirectBufferCache: allocated a new buffer capacity: 4096
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+DirectBufferCache: allocated a new buffer capacity: 4096
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+mknod
+opnum = 774 time = 88 rate = 8795
+mknod
+mknod
+statfile
+statfile
+opnum = 4644 time = 147 rate = 31591
+statfile
+statdir
+rmnod
+statdir
+rmnod
+opnum = 4644 time = 145 rate = 32027
+statdir
+opnum = 774 time = 3 rate = 258000
+rmnod
+rmdir
+rmdir
+opnum = 4644 time = 68 rate = 68294
+rmdir
+opnum = 774 time = 3 rate = 258000
+round 4
+log4j:WARN No appenders could be found for logger (com.ibm.crail).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+log4j:WARN No appenders could be found for logger (com.ibm.crail).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+log4j:WARN No appenders could be found for logger (com.ibm.crail).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+log4j:WARN No appenders could be found for logger (com.ibm.crail).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+MappedBufferCache: allocated 1073741824
+MappedBufferCache: allocated 1073741824
+MappedBufferCache: allocated 1073741824
+MappedBufferCache: allocated 1073741824
+DirectBufferCache: allocated a new buffer capacity: 4096
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+DirectBufferCache: allocated a new buffer capacity: 4096
+DirectBufferCache: allocated a new buffer capacity: 4096
+DirectBufferCache: allocated a new buffer capacity: 4096
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+mknod
+mknod
+opnum = 1032 time = 77 rate = 13402
+mknod
+mknod
+statfile
+statfile
+statfile
+opnum = 6192 time = 157 rate = 39439
+statfile
+statdir
+rmnod
+rmdir
+statdir
+rmnod
+statdir
+rmnod
+rmdir
+opnum = 6192 time = 163 rate = 37987
+statdir
+opnum = 1032 time = 4 rate = 258000
+rmnod
+rmdir
+opnum = 6192 time = 71 rate = 87211
+rmdir
+opnum = 1032 time = 3 rate = 344000
+round 5
+log4j:WARN No appenders could be found for logger (com.ibm.crail).
+log4j:WARN No appenders could be found for logger (com.ibm.crail).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+log4j:WARN No appenders could be found for logger (com.ibm.crail).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+log4j:WARN No appenders could be found for logger (com.ibm.crail).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+log4j:WARN No appenders could be found for logger (com.ibm.crail).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+MappedBufferCache: allocated 1073741824
+MappedBufferCache: allocated 1073741824
+MappedBufferCache: allocated 1073741824
+MappedBufferCache: allocated 1073741824
+MappedBufferCache: allocated 1073741824
+DirectBufferCache: allocated a new buffer capacity: 4096
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+DirectBufferCache: allocated a new buffer capacity: 4096
+DirectBufferCache: allocated a new buffer capacity: 4096
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+DirectBufferCache: allocated a new buffer capacity: 4096
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+DirectBufferCache: allocated a new buffer capacity: 4096
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+mknod
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+mknod
+mknod
+opnum = 1290 time = 79 rate = 16329
+mknod
+mknod
+statfile
+statfile
+statfile
+opnum = 7740 time = 160 rate = 48375
+statfile
+statfile
+statdir
+rmnod
+statdir
+statdir
+rmnod
+rmnod
+rmdir
+rmdir
+rmdir
+statdir
+rmnod
+opnum = 7740 time = 145 rate = 53379
+statdir
+opnum = 1290 time = 3 rate = 430000
+rmnod
+rmdir
+opnum = 7740 time = 72 rate = 107500
+rmdir
+opnum = 1290 time = 4 rate = 322500
+round 6
+log4j:WARN No appenders could be found for logger (com.ibm.crail).
+log4j:WARN No appenders could be found for logger (com.ibm.crail).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+log4j:WARN No appenders could be found for logger (com.ibm.crail).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+log4j:WARN No appenders could be found for logger (com.ibm.crail).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+log4j:WARN No appenders could be found for logger (com.ibm.crail).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+log4j:WARN No appenders could be found for logger (com.ibm.crail).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+MappedBufferCache: allocated 1073741824
+MappedBufferCache: allocated 1073741824
+MappedBufferCache: allocated 1073741824
+MappedBufferCache: allocated 1073741824
+MappedBufferCache: allocated 1073741824
+MappedBufferCache: allocated 1073741824
+DirectBufferCache: allocated a new buffer capacity: 4096
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+DirectBufferCache: allocated a new buffer capacity: 4096
+DirectBufferCache: allocated a new buffer capacity: 4096
+DirectBufferCache: allocated a new buffer capacity: 4096
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+DirectBufferCache: allocated a new buffer capacity: 4096
+DirectBufferCache: allocated a new buffer capacity: 4096
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+mkdir
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+mknod
+mknod
+mknod
+mknod
+opnum = 1548 time = 78 rate = 19846
+mknod
+mknod
+statfile
+statfile
+statfile
+statfile
+opnum = 9288 time = 189 rate = 49142
+statfile
+statfile
+statdir
+rmnod
+rmdir
+statdir
+rmnod
+statdir
+rmnod
+statdir
+rmnod
+rmdir
+opnum = 9288 time = 150 rate = 61920
+statdir
+statdir
+opnum = 1548 time = 5 rate = 309600
+rmnod
+rmnod
+rmdir
+rmdir
+opnum = 9288 time = 73 rate = 127232
+rmdir
+rmdir
+opnum = 1548 time = 5 rate = 309600
+round 7
+log4j:WARN No appenders could be found for logger (com.ibm.crail).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN No appenders could be found for logger (com.ibm.crail).
+log4j:WARN Please initialize the log4j system properly.log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.log4j:WARN No appenders could be found for logger (com.ibm.crail).
+
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+log4j:WARN No appenders could be found for logger (com.ibm.crail).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+log4j:WARN No appenders could be found for logger (com.ibm.crail).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+log4j:WARN No appenders could be found for logger (com.ibm.crail).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+log4j:WARN No appenders could be found for logger (com.ibm.crail).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+MappedBufferCache: allocated 1073741824
+MappedBufferCache: allocated 1073741824
+MappedBufferCache: allocated 1073741824
+MappedBufferCache: allocated 1073741824
+MappedBufferCache: allocated 1073741824
+MappedBufferCache: allocated 1073741824
+MappedBufferCache: allocated 1073741824
+DirectBufferCache: allocated a new buffer capacity: 4096
+DirectBufferCache: allocated a new buffer capacity: 4096
+DirectBufferCache: allocated a new buffer capacity: 4096
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+DirectBufferCache: allocated a new buffer capacity: 4096
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+DirectBufferCache: allocated a new buffer capacity: 4096
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+DirectBufferCache: allocated a new buffer capacity: 4096
+DirectBufferCache: allocated a new buffer capacity: 4096
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+mknod
+mknod
+mknod
+mknod
+mknod
+opnum = 1806 time = 107 rate = 16878
+mknod
+mknod
+statfile
+statfile
+statfile
+statfile
+statfile
+statdir
+rmnod
+opnum = 10836 time = 192 rate = 56437
+statfile
+statfile
+rmdir
+statdir
+statdir
+rmnod
+statdir
+rmnod
+rmnod
+statdir
+rmnod
+rmdir
+rmdir
+rmdir
+rmdir
+statdir
+rmnod
+opnum = 10836 time = 199 rate = 54452
+statdir
+opnum = 1806 time = 4 rate = 451500
+rmnod
+rmdir
+opnum = 10836 time = 80 rate = 135450
+rmdir
+opnum = 1806 time = 4 rate = 451500
+round 8
+log4j:WARN No appenders could be found for logger (com.ibm.crail).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+log4j:WARN No appenders could be found for logger (com.ibm.crail).log4j:WARN No appenders could be found for logger (com.ibm.crail).
+log4j:WARN No appenders could be found for logger (com.ibm.crail).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+log4j:WARN No appenders could be found for logger (com.ibm.crail).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+log4j:WARN No appenders could be found for logger (com.ibm.crail).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+log4j:WARN No appenders could be found for logger (com.ibm.crail).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+log4j:WARN No appenders could be found for logger (com.ibm.crail).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+MappedBufferCache: allocated 1073741824
+MappedBufferCache: allocated 1073741824
+MappedBufferCache: allocated 1073741824
+MappedBufferCache: allocated 1073741824
+MappedBufferCache: allocated 1073741824
+MappedBufferCache: allocated 1073741824
+MappedBufferCache: allocated 1073741824
+MappedBufferCache: allocated 1073741824
+DirectBufferCache: allocated a new buffer capacity: 4096
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+DirectBufferCache: allocated a new buffer capacity: 4096
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+DirectBufferCache: allocated a new buffer capacity: 4096
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+DirectBufferCache: allocated a new buffer capacity: 4096
+DirectBufferCache: allocated a new buffer capacity: 4096
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+DirectBufferCache: allocated a new buffer capacity: 4096
+DirectBufferCache: allocated a new buffer capacity: 4096
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+DirectBufferCache: allocated a new buffer capacity: 4096
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+mknod
+mknod
+mknod
+mknod
+mknod
+mknod
+mknod
+opnum = 2064 time = 105 rate = 19657
+mknod
+statfile
+statfile
+statfile
+statfile
+statdir
+rmnod
+statfile
+statfile
+statfile
+opnum = 12384 time = 221 rate = 56036
+statfile
+rmdir
+statdir
+rmnod
+statdir
+statdir
+rmnodrmnod
+
+rmdir
+rmdir
+statdirrmdir
+
+rmnod
+statdir
+rmnod
+statdir
+rmnod
+opnum = 12384 time = 205 rate = 60409
+statdir
+opnum = 2064 time = 6 rate = 344000
+rmnod
+rmdir
+rmdir
+rmdir
+opnum = 12384 time = 119 rate = 104067
+rmdir
+opnum = 2064 time = 6 rate = 344000
+round 9
+log4j:WARN No appenders could be found for logger (com.ibm.crail).
+log4j:WARN No appenders could be found for logger (com.ibm.crail).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+log4j:WARN No appenders could be found for logger (com.ibm.crail).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+log4j:WARN No appenders could be found for logger (com.ibm.crail).
+log4j:WARN No appenders could be found for logger (com.ibm.crail).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+log4j:WARN No appenders could be found for logger (com.ibm.crail).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN No appenders could be found for logger (com.ibm.crail).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+log4j:WARN No appenders could be found for logger (com.ibm.crail).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+log4j:WARN No appenders could be found for logger (com.ibm.crail).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+MappedBufferCache: allocated 1073741824
+MappedBufferCache: allocated 1073741824
+MappedBufferCache: allocated 1073741824
+MappedBufferCache: allocated 1073741824
+MappedBufferCache: allocated 1073741824
+MappedBufferCache: allocated 1073741824
+MappedBufferCache: allocated 1073741824
+MappedBufferCache: allocated 1073741824
+MappedBufferCache: allocated 1073741824
+DirectBufferCache: allocated a new buffer capacity: 4096
+DirectBufferCache: allocated a new buffer capacity: 4096
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+DirectBufferCache: allocated a new buffer capacity: 4096
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+DirectBufferCache: allocated a new buffer capacity: 4096
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+DirectBufferCache: allocated a new buffer capacity: 4096
+DirectBufferCache: allocated a new buffer capacity: 4096
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+DirectBufferCache: allocated a new buffer capacity: 4096
+DirectBufferCache: allocated a new buffer capacity: 4096
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+DirectBufferCache: allocated a new buffer capacity: 4096
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+mkdir
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+mknod
+mknod
+mknod
+mknod
+mknod
+mknod
+mknod
+opnum = 2322 time = 93 rate = 24967
+mknod
+mknod
+statfile
+statfile
+statdir
+rmnod
+statfile
+statfile
+statfile
+statfile
+statfile
+opnum = 13932 time = 200 rate = 69660
+statfile
+statfile
+rmdir
+statdir
+rmnod
+statdir
+rmnod
+rmdir
+statdir
+rmnod
+statdir
+rmnod
+statdir
+rmnod
+statdir
+rmnod
+opnum = 13932 time = 210 rate = 66342
+statdir
+statdir
+opnum = 2322 time = 5 rate = 464400
+rmnod
+rmnod
+rmdir
+rmdir
+rmdir
+rmdir
+rmdir
+opnum = 13932 time = 101 rate = 137940
+rmdir
+rmdir
+opnum = 2322 time = 5 rate = 464400
+round 10
+log4j:WARN No appenders could be found for logger (com.ibm.crail).
+log4j:WARN No appenders could be found for logger (com.ibm.crail).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+log4j:WARN No appenders could be found for logger (com.ibm.crail).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+log4j:WARN No appenders could be found for logger (com.ibm.crail).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+log4j:WARN No appenders could be found for logger (com.ibm.crail).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+log4j:WARN No appenders could be found for logger (com.ibm.crail).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+log4j:WARN No appenders could be found for logger (com.ibm.crail).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+log4j:WARN No appenders could be found for logger (com.ibm.crail).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+log4j:WARN No appenders could be found for logger (com.ibm.crail).log4j:WARN No appenders could be found for logger (com.ibm.crail).
+
+log4j:WARN Please initialize the log4j system properly.log4j:WARN Please initialize the log4j system properly.
+
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+MappedBufferCache: allocated 1073741824
+MappedBufferCache: allocated 1073741824
+MappedBufferCache: allocated 1073741824
+MappedBufferCache: allocated 1073741824
+MappedBufferCache: allocated 1073741824
+MappedBufferCache: allocated 1073741824
+MappedBufferCache: allocated 1073741824
+MappedBufferCache: allocated 1073741824
+MappedBufferCache: allocated 1073741824
+MappedBufferCache: allocated 1073741824
+DirectBufferCache: allocated a new buffer capacity: 4096
+DirectBufferCache: allocated a new buffer capacity: 4096
+DirectBufferCache: allocated a new buffer capacity: 4096
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+DirectBufferCache: allocated a new buffer capacity: 4096
+DirectBufferCache: allocated a new buffer capacity: 4096
+DirectBufferCache: allocated a new buffer capacity: 4096
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+DirectBufferCache: allocated a new buffer capacity: 4096
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+DirectBufferCache: allocated a new buffer capacity: 4096
+DirectBufferCache: allocated a new buffer capacity: 4096
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+DirectBufferCache: allocated a new buffer capacity: 4096
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+mkdir
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104 RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+mkdir
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+mknod
+mknod
+mknod
+mknod
+mknod
+mknod
+mknod
+mknod
+opnum = 2580 time = 98 rate = 26326
+mknod
+mknod
+statfile
+statfile
+statfile
+statfile
+statfile
+statfile
+statfile
+statfile
+statdir
+statfile
+rmnod
+opnum = 15480 time = 206 rate = 75145
+statfile
+statdir
+rmnod
+rmdir
+statdir
+rmnod
+statdir
+rmnod
+statdir
+statdir
+statdir
+rmnod
+rmdir
+rmnod
+rmnod
+statdir
+statdir
+rmdir
+rmnod
+rmnod
+rmdir
+rmdir
+opnum = 15480 time = 191 rate = 81047
+statdir
+rmdir
+opnum = 2580 time = 6 rate = 430000
+rmnod
+rmdir
+rmdir
+rmdir
+opnum = 15480 time = 113 rate = 136991
+rmdir
+opnum = 2580 time = 7 rate = 368571
+round 11
+log4j:WARN No appenders could be found for logger (com.ibm.crail).
+log4j:WARN No appenders could be found for logger (com.ibm.crail).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN No appenders could be found for logger (com.ibm.crail).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+log4j:WARN No appenders could be found for logger (com.ibm.crail).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+log4j:WARN No appenders could be found for logger (com.ibm.crail).
+log4j:WARN Please initialize the log4j system properly.log4j:WARN No appenders could be found for logger (com.ibm.crail).
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN No appenders could be found for logger (com.ibm.crail).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+log4j:WARN No appenders could be found for logger (com.ibm.crail).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+log4j:WARN No appenders could be found for logger (com.ibm.crail).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+log4j:WARN No appenders could be found for logger (com.ibm.crail).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+log4j:WARN No appenders could be found for logger (com.ibm.crail).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+MappedBufferCache: allocated 1073741824
+MappedBufferCache: allocated 1073741824
+MappedBufferCache: allocated 1073741824
+MappedBufferCache: allocated 1073741824
+MappedBufferCache: allocated 1073741824
+MappedBufferCache: allocated 1073741824
+MappedBufferCache: allocated 1073741824
+MappedBufferCache: allocated 1073741824
+MappedBufferCache: allocated 1073741824
+MappedBufferCache: allocated 1073741824
+MappedBufferCache: allocated 1073741824
+DirectBufferCache: allocated a new buffer capacity: 4096
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+DirectBufferCache: allocated a new buffer capacity: 4096
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+DirectBufferCache: allocated a new buffer capacity: 4096
+DirectBufferCache: allocated a new buffer capacity: 4096
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+DirectBufferCache: allocated a new buffer capacity: 4096
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+DirectBufferCache: allocated a new buffer capacity: 4096
+DirectBufferCache: allocated a new buffer capacity: 4096
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+DirectBufferCache: allocated a new buffer capacity: 4096
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+DirectBufferCache: allocated a new buffer capacity: 4096
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+DirectBufferCache: allocated a new buffer capacity: 4096
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+DirectBufferCache: allocated a new buffer capacity: 4096
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+mknod
+mknod
+mknod
+mknod
+mknod
+mknod
+mknod
+mknod
+mknod
+opnum = 2838 time = 103 rate = 27553
+mknod
+mknod
+statfile
+statfile
+statfile
+statfile
+statfile
+statdir
+statfile
+rmnod
+statfile
+statdir
+rmnod
+statfile
+statfile
+opnum = 17028 time = 231 rate = 73714
+statfilestatfile
+
+rmdir
+rmdir
+statdir
+rmnod
+statdirstatdir
+
+rmnod
+rmnod
+statdir
+statdir
+rmnodrmnod
+
+statdir
+rmnod
+rmdir
+statdir
+rmnod
+rmdir
+rmdir
+rmdir
+opnum = 17028 time = 199 rate = 85567
+statdir
+statdir
+opnum = 2838 time = 5 rate = 567600
+rmnod
+rmnod
+rmdir
+rmdir
+rmdir
+rmdir
+opnum = 17028 time = 126 rate = 135142
+rmdir
+opnum = 2838 time = 5 rate = 567600
+round 12
+log4j:WARN No appenders could be found for logger (com.ibm.crail).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+log4j:WARN No appenders could be found for logger (com.ibm.crail).
+log4j:WARN No appenders could be found for logger (com.ibm.crail).
+log4j:WARN Please initialize the log4j system properly.log4j:WARN Please initialize the log4j system properly.
+
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+log4j:WARN No appenders could be found for logger (com.ibm.crail).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+log4j:WARN No appenders could be found for logger (com.ibm.crail).
+log4j:WARN No appenders could be found for logger (com.ibm.crail).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+log4j:WARN No appenders could be found for logger (com.ibm.crail).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+log4j:WARN No appenders could be found for logger (com.ibm.crail).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+log4j:WARN No appenders could be found for logger (com.ibm.crail).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+log4j:WARN No appenders could be found for logger (com.ibm.crail).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+log4j:WARN No appenders could be found for logger (com.ibm.crail).log4j:WARN No appenders could be found for logger (com.ibm.crail).
+
+log4j:WARN Please initialize the log4j system properly.log4j:WARN Please initialize the log4j system properly.
+
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+
+MappedBufferCache: allocated 1073741824
+MappedBufferCache: allocated 1073741824MappedBufferCache: allocated 1073741824
+
+MappedBufferCache: allocated 1073741824
+MappedBufferCache: allocated 1073741824
+MappedBufferCache: allocated 1073741824
+MappedBufferCache: allocated 1073741824
+MappedBufferCache: allocated 1073741824
+MappedBufferCache: allocated 1073741824
+MappedBufferCache: allocated 1073741824
+MappedBufferCache: allocated 1073741824
+MappedBufferCache: allocated 1073741824
+DirectBufferCache: allocated a new buffer capacity: 4096
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+DirectBufferCache: allocated a new buffer capacity: 4096
+DirectBufferCache: allocated a new buffer capacity: 4096
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+DirectBufferCache: allocated a new buffer capacity: 4096
+DirectBufferCache: allocated a new buffer capacity: 4096
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+DirectBufferCache: allocated a new buffer capacity: 4096
+DirectBufferCache: allocated a new buffer capacity: 4096
+DirectBufferCache: allocated a new buffer capacity: 4096
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+DirectBufferCache: allocated a new buffer capacity: 4096
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+DirectBufferCache: allocated a new buffer capacity: 4096
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+DirectBufferCache: allocated a new buffer capacity: 4096
+DirectBufferCache: allocated a new buffer capacity: 4096
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+mkdir
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+mkdir
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+mkdir
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+mknod
+mknod
+mknod
+mknod
+mknod
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+mknod
+mknod
+mknod
+mknod
+mknod
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+mknod
+opnum = 3096 time = 106 rate = 29207
+mknod
+statfile
+statfile
+statfile
+statfile
+statfile
+statfile
+statdir
+rmnod
+statfile
+statfile
+statfile
+statfile
+statdir
+rmnod
+rmdir
+statdir
+rmnod
+rmdir
+statdir
+statdirrmnod
+
+statfile
+rmnodopnum = 18576 time = 228 rate = 81473
+statfile
+statdir
+
+rmnod
+statdir
+rmnod
+statdir
+rmnod
+statdir
+statdir
+rmnod
+rmnod
+rmdir
+rmdir
+rmdir
+rmdir
+rmdir
+rmdir
+rmdir
+rmdir
+statdir
+opnum = 18576 time = 175 rate = 106148rmnod
+
+statdir
+opnum = 3096 time = 5 rate = 619200
+rmnod
+rmdir
+opnum = 18576 time = 106 rate = 175245
+rmdir
+opnum = 3096 time = 5 rate = 619200
+round 13
+log4j:WARN No appenders could be found for logger (com.ibm.crail).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN No appenders could be found for logger (com.ibm.crail).
+log4j:WARN No appenders could be found for logger (com.ibm.crail).
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN No appenders could be found for logger (com.ibm.crail).log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+log4j:WARN No appenders could be found for logger (com.ibm.crail).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN No appenders could be found for logger (com.ibm.crail).log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+log4j:WARN Please initialize the log4j system properly.
+
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+log4j:WARN No appenders could be found for logger (com.ibm.crail).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+log4j:WARN No appenders could be found for logger (com.ibm.crail).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+log4j:WARN No appenders could be found for logger (com.ibm.crail).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+log4j:WARN No appenders could be found for logger (com.ibm.crail).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN No appenders could be found for logger (com.ibm.crail).log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+log4j:WARN No appenders could be found for logger (com.ibm.crail).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+log4j:WARN No appenders could be found for logger (com.ibm.crail).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+MappedBufferCache: allocated 1073741824
+MappedBufferCache: allocated 1073741824
+MappedBufferCache: allocated 1073741824
+MappedBufferCache: allocated 1073741824
+MappedBufferCache: allocated 1073741824
+MappedBufferCache: allocated 1073741824
+MappedBufferCache: allocated 1073741824
+MappedBufferCache: allocated 1073741824
+MappedBufferCache: allocated 1073741824
+MappedBufferCache: allocated 1073741824
+MappedBufferCache: allocated 1073741824
+MappedBufferCache: allocated 1073741824
+MappedBufferCache: allocated 1073741824
+DirectBufferCache: allocated a new buffer capacity: 4096
+DirectBufferCache: allocated a new buffer capacity: 4096
+DirectBufferCache: allocated a new buffer capacity: 4096
+DirectBufferCache: allocated a new buffer capacity: 4096
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+DirectBufferCache: allocated a new buffer capacity: 4096
+DirectBufferCache: allocated a new buffer capacity: 4096
+DirectBufferCache: allocated a new buffer capacity: 4096
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+DirectBufferCache: allocated a new buffer capacity: 4096
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+DirectBufferCache: allocated a new buffer capacity: 4096
+DirectBufferCache: allocated a new buffer capacity: 4096
+DirectBufferCache: allocated a new buffer capacity: 4096
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+DirectBufferCache: allocated a new buffer capacity: 4096
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+DirectBufferCache: allocated a new buffer capacity: 4096
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+mkdir
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+mknod
+statfile
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+statdir
+rmnod
+mknod
+mknod
+mknod
+mknod
+mknod
+mknod
+mknod
+mknod
+mknod
+mknod
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+rmdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+mknod
+opnum = 3354 time = 136 rate = 24661
+mknod
+statfile
+statfile
+statfile
+statfile
+statfile
+statdir
+rmnod
+statdir
+statfile
+rmnod
+statfile
+statfile
+statfile
+statfile
+rmdir
+rmdir
+statfile
+opnum = 20124 time = 283 rate = 71109
+statfile
+statdir
+statdir
+statdir
+rmnod
+rmnod
+rmnod
+statdir
+rmnod
+statdir
+rmnod
+statdir
+statdir
+statdir
+statdir
+rmnodrmnodrmnod
+
+rmnod
+
+rmdir
+rmdir
+rmdir
+opnum = 20124 time = 254 rate = 79228
+statdir
+opnum = 3354 time = 37 rate = 90648
+rmnod
+rmdir
+rmdir
+rmdir
+rmdir
+rmdir
+rmdir
+opnum = 20124 time = 144 rate = 139750
+rmdir
+opnum = 3354 time = 5 rate = 670800
+#
+# A fatal error has been detected by the Java Runtime Environment:
+#
+#  SIGSEGV (0xb) at pc=0x00007fe13a1392cc, pid=11575, tid=0x00007fe179723700
+#
+# JRE version: Java(TM) SE Runtime Environment (8.0_101-b13) (build 1.8.0_101-b13)
+# Java VM: Java HotSpot(TM) 64-Bit Server VM (25.101-b13 mixed mode linux-amd64 compressed oops)
+# Problematic frame:
+# C  [mca_btl_openib.so+0x232cc]  udcm_module_finalize+0x3bc
+#
+# Failed to write core dump. Core dumps have been disabled. To enable core dumping, try "ulimit -c unlimited" before starting Java again
+#
+# An error report file with more information is saved as:
+# /home/chenyoumin/dmfs-test/hs_err_pid11575.log
+#
+# If you would like to submit a bug report, please visit:
+#   http://bugreport.java.com/bugreport/crash.jsp
+# The crash happened outside the Java Virtual Machine in native code.
+# See problematic frame for where to report the bug.
+#
+[node87:11575] *** Process received signal ***
+[node87:11575] Signal: Aborted (6)
+[node87:11575] Signal code:  (-6)
+[node87:11575] [ 0] /lib64/libpthread.so.0(+0x109f0)[0x7fe1793099f0]
+[node87:11575] [ 1] /lib64/libc.so.6(gsignal+0x38)[0x7fe178b52a98]
+[node87:11575] [ 2] /lib64/libc.so.6(abort+0x16a)[0x7fe178b5469a]
+[node87:11575] [ 3] /home/chenyoumin/jdk1.8.0_101/jre/lib/amd64/server/libjvm.so(+0x9231c5)[0x7fe1784531c5]
+[node87:11575] [ 4] /home/chenyoumin/jdk1.8.0_101/jre/lib/amd64/server/libjvm.so(+0xac4313)[0x7fe1785f4313]
+[node87:11575] [ 5] /home/chenyoumin/jdk1.8.0_101/jre/lib/amd64/server/libjvm.so(JVM_handle_linux_signal+0x14f)[0x7fe1784589ef]
+[node87:11575] [ 6] /home/chenyoumin/jdk1.8.0_101/jre/lib/amd64/server/libjvm.so(+0x91f183)[0x7fe17844f183]
+[node87:11575] [ 7] /lib64/libpthread.so.0(+0x109f0)[0x7fe1793099f0]
+[node87:11575] [ 8] /usr/local/openmpi/lib/openmpi/mca_btl_openib.so(+0x232cc)[0x7fe13a1392cc]
+[node87:11575] [ 9] /usr/local/openmpi/lib/openmpi/mca_btl_openib.so(mca_btl_openib_finalize+0x494)[0x7fe13a11f8c4]
+[node87:11575] [10] /usr/local/openmpi/lib/libmpi.so.1(+0x8310d)[0x7fe159f4710d]
+[node87:11575] [11] /usr/local/openmpi/lib/libopen-pal.so.6(mca_base_framework_close+0x6f)[0x7fe1599b77af]
+[node87:11575] [12] /usr/local/openmpi/lib/libopen-pal.so.6(mca_base_framework_close+0x6f)[0x7fe1599b77af]
+[node87:11575] [13] /usr/local/openmpi/lib/libmpi.so.1(ompi_mpi_finalize+0x51e)[0x7fe159f07d0e]
+[node87:11575] [14] /usr/local/openmpi/lib/libmpi_java.so.1.2.1(Java_mpi_MPI_Finalize_1jni+0x36)[0x7fe15a1b7d56]
+[node87:11575] [15] [0x7fe161017a14]
+[node87:11575] *** End of error message ***
+--------------------------------------------------------------------------
+WARNING: A process refused to die despite all the efforts!
+This process may still be running and/or consuming resources.
+
+Host: node83
+PID:  3044
+
+--------------------------------------------------------------------------
+[node81:31594] 1 more process has sent help message help-orte-odls-base.txt / orte-odls-base:could-not-kill
+[node81:31594] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+--------------------------------------------------------------------------
+mpirun noticed that process rank 10 with PID 0 on node 10.0.2.87 exited on signal 6 (Aborted).
+--------------------------------------------------------------------------
+round 14
+log4j:WARN No appenders could be found for logger (com.ibm.crail).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+log4j:WARN No appenders could be found for logger (com.ibm.crail).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+log4j:WARN No appenders could be found for logger (com.ibm.crail).
+log4j:WARN No appenders could be found for logger (com.ibm.crail).log4j:WARN Please initialize the log4j system properly.
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+log4j:WARN No appenders could be found for logger (com.ibm.crail).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+log4j:WARN No appenders could be found for logger (com.ibm.crail).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+log4j:WARN No appenders could be found for logger (com.ibm.crail).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+log4j:WARN No appenders could be found for logger (com.ibm.crail).log4j:WARN No appenders could be found for logger (com.ibm.crail).
+log4j:WARN Please initialize the log4j system properly.
+
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.log4j:WARN Please initialize the log4j system properly.
+
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+log4j:WARN No appenders could be found for logger (com.ibm.crail).
+log4j:WARN Please initialize the log4j system properly.log4j:WARN No appenders could be found for logger (com.ibm.crail).
+
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.log4j:WARN Please initialize the log4j system properly.
+log4j:WARN No appenders could be found for logger (com.ibm.crail).
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+log4j:WARN No appenders could be found for logger (com.ibm.crail).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+log4j:WARN No appenders could be found for logger (com.ibm.crail).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+MappedBufferCache: allocated 1073741824
+MappedBufferCache: allocated 1073741824
+MappedBufferCache: allocated 1073741824
+MappedBufferCache: allocated 1073741824
+MappedBufferCache: allocated 1073741824
+MappedBufferCache: allocated 1073741824
+MappedBufferCache: allocated 1073741824
+MappedBufferCache: allocated 1073741824
+MappedBufferCache: allocated 1073741824
+MappedBufferCache: allocated 1073741824
+MappedBufferCache: allocated 1073741824
+MappedBufferCache: allocated 1073741824
+MappedBufferCache: allocated 1073741824
+MappedBufferCache: allocated 1073741824
+DirectBufferCache: allocated a new buffer capacity: 4096
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+DirectBufferCache: allocated a new buffer capacity: 4096
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+DirectBufferCache: allocated a new buffer capacity: 4096
+DirectBufferCache: allocated a new buffer capacity: 4096
+DirectBufferCache: allocated a new buffer capacity: 4096
+DirectBufferCache: allocated a new buffer capacity: 4096
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+DirectBufferCache: allocated a new buffer capacity: 4096
+DirectBufferCache: allocated a new buffer capacity: 4096
+DirectBufferCache: allocated a new buffer capacity: 4096
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+DirectBufferCache: allocated a new buffer capacity: 4096
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+DirectBufferCache: allocated a new buffer capacity: 4096
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+DirectBufferCache: allocated a new buffer capacity: 4096
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+DirectBufferCache: allocated a new buffer capacity: 4096
+DirectBufferCache: allocated a new buffer capacity: 4096
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+mkdir
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+mkdirmkdir
+
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+mknod
+mknod
+mknod
+mknod
+mknod
+mknod
+mknod
+mknod
+mknod
+mknod
+statfile
+statfile
+statfile
+statfile
+statfile
+statfile
+statfile
+statfile
+statfile
+statdir
+statdir
+rmnod
+rmnod
+statfile
+rmdir
+rmdir
+statdir
+rmnod
+statdir
+rmnod
+statdir
+rmnod
+statdir
+statdir
+rmnod
+statdir
+statdir
+rmnod
+rmnod
+rmnod
+statdir
+rmnod
+rmdir
+rmdir
+rmdir
+rmdir
+rmdir
+rmdir
+rmdir
+rmdir
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+mknod
+statfile
+statdir
+rmnod
+rmdir
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+mknod
+statfile
+statdir
+rmnod
+rmdir
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+opnum = 3612 time = 99 rate = 36484
+mknodmknod
+
+statfile
+opnum = 21672 time = 212 rate = 102226
+statfile
+statdir
+rmnod
+opnum = 21672 time = 198 rate = 109454
+statdir
+opnum = 3612 time = 14 rate = 258000
+rmnod
+rmdir
+opnum = 21672 time = 102 rate = 212470
+rmdir
+opnum = 3612 time = 5 rate = 722400
+#
+# A fatal error has been detected by the Java Runtime Environment:
+#
+#  SIGSEGV (0xb) at pc=0x00007f5594d052cc, pid=7395, tid=0x00007f55bd7f7700
+#
+# JRE version: Java(TM) SE Runtime Environment (8.0_101-b13) (build 1.8.0_101-b13)
+# Java VM: Java HotSpot(TM) 64-Bit Server VM (25.101-b13 mixed mode linux-amd64 compressed oops)
+# Problematic frame:
+# C  [mca_btl_openib.so+0x232cc]  udcm_module_finalize+0x3bc
+#
+# Failed to write core dump. Core dumps have been disabled. To enable core dumping, try "ulimit -c unlimited" before starting Java again
+#
+# An error report file with more information is saved as:
+# /home/chenyoumin/dmfs-test/hs_err_pid7395.log
+#
+# If you would like to submit a bug report, please visit:
+#   http://bugreport.java.com/bugreport/crash.jsp
+# The crash happened outside the Java Virtual Machine in native code.
+# See problematic frame for where to report the bug.
+#
+[node84:07395] *** Process received signal ***
+[node84:07395] Signal: Aborted (6)
+[node84:07395] Signal code:  (-6)
+[node84:07395] [ 0] /lib64/libpthread.so.0(+0x109f0)[0x7f55bd3dd9f0]
+[node84:07395] [ 1] /lib64/libc.so.6(gsignal+0x38)[0x7f55bcc26a98]
+[node84:07395] [ 2] /lib64/libc.so.6(abort+0x16a)[0x7f55bcc2869a]
+[node84:07395] [ 3] /home/chenyoumin/jdk1.8.0_101/jre/lib/amd64/server/libjvm.so(+0x9231c5)[0x7f55bc5271c5]
+[node84:07395] [ 4] /home/chenyoumin/jdk1.8.0_101/jre/lib/amd64/server/libjvm.so(+0xac4313)[0x7f55bc6c8313]
+[node84:07395] [ 5] /home/chenyoumin/jdk1.8.0_101/jre/lib/amd64/server/libjvm.so(JVM_handle_linux_signal+0x14f)[0x7f55bc52c9ef]
+[node84:07395] [ 6] /home/chenyoumin/jdk1.8.0_101/jre/lib/amd64/server/libjvm.so(+0x91f183)[0x7f55bc523183]
+[node84:07395] [ 7] /lib64/libpthread.so.0(+0x109f0)[0x7f55bd3dd9f0]
+[node84:07395] [ 8] /usr/local/openmpi/lib/openmpi/mca_btl_openib.so(+0x232cc)[0x7f5594d052cc]
+[node84:07395] [ 9] /usr/local/openmpi/lib/openmpi/mca_btl_openib.so(mca_btl_openib_finalize+0x494)[0x7f5594ceb8c4]
+[node84:07395] [10] /usr/local/openmpi/lib/libmpi.so.1(+0x8310d)[0x7f559cad810d]
+[node84:07395] [11] /usr/local/openmpi/lib/libopen-pal.so.6(mca_base_framework_close+0x6f)[0x7f559c5487af]
+[node84:07395] [12] /usr/local/openmpi/lib/libopen-pal.so.6(mca_base_framework_close+0x6f)[0x7f559c5487af]
+[node84:07395] [13] /usr/local/openmpi/lib/libmpi.so.1(ompi_mpi_finalize+0x51e)[0x7f559ca98d0e]
+[node84:07395] [14] /usr/local/openmpi/lib/libmpi_java.so.1.2.1(Java_mpi_MPI_Finalize_1jni+0x36)[0x7f559cd48d56]
+[node84:07395] [15] [0x7f55a5017a14]
+[node84:07395] *** End of error message ***
+--------------------------------------------------------------------------
+WARNING: A process refused to die despite all the efforts!
+This process may still be running and/or consuming resources.
+
+Host: node83
+PID:  3115
+
+--------------------------------------------------------------------------
+[node81:31780] 1 more process has sent help message help-orte-odls-base.txt / orte-odls-base:could-not-kill
+[node81:31780] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+--------------------------------------------------------------------------
+mpirun noticed that process rank 8 with PID 0 on node 10.0.2.84 exited on signal 6 (Aborted).
+--------------------------------------------------------------------------
+round 15
+log4j:WARN No appenders could be found for logger (com.ibm.crail).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+log4j:WARN No appenders could be found for logger (com.ibm.crail).log4j:WARN No appenders could be found for logger (com.ibm.crail).
+
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+log4j:WARN No appenders could be found for logger (com.ibm.crail).log4j:WARN No appenders could be found for logger (com.ibm.crail).log4j:WARN No appenders could be found for logger (com.ibm.crail).
+log4j:WARN No appenders could be found for logger (com.ibm.crail).
+
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+log4j:WARN No appenders could be found for logger (com.ibm.crail).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.log4j:WARN No appenders could be found for logger (com.ibm.crail).
+
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+log4j:WARN No appenders could be found for logger (com.ibm.crail).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+log4j:WARN No appenders could be found for logger (com.ibm.crail).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+log4j:WARN No appenders could be found for logger (com.ibm.crail).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+log4j:WARN No appenders could be found for logger (com.ibm.crail).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+log4j:WARN No appenders could be found for logger (com.ibm.crail).log4j:WARN No appenders could be found for logger (com.ibm.crail).
+log4j:WARN Please initialize the log4j system properly.
+
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+MappedBufferCache: allocated 1073741824
+MappedBufferCache: allocated 1073741824
+MappedBufferCache: allocated 1073741824
+MappedBufferCache: allocated 1073741824
+MappedBufferCache: allocated 1073741824
+MappedBufferCache: allocated 1073741824
+MappedBufferCache: allocated 1073741824
+MappedBufferCache: allocated 1073741824
+MappedBufferCache: allocated 1073741824
+MappedBufferCache: allocated 1073741824
+MappedBufferCache: allocated 1073741824
+MappedBufferCache: allocated 1073741824
+MappedBufferCache: allocated 1073741824
+MappedBufferCache: allocated 1073741824
+MappedBufferCache: allocated 1073741824
+DirectBufferCache: allocated a new buffer capacity: 4096
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+DirectBufferCache: allocated a new buffer capacity: 4096
+DirectBufferCache: allocated a new buffer capacity: 4096
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+DirectBufferCache: allocated a new buffer capacity: 4096
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+DirectBufferCache: allocated a new buffer capacity: 4096
+DirectBufferCache: allocated a new buffer capacity: 4096
+DirectBufferCache: allocated a new buffer capacity: 4096
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+DirectBufferCache: allocated a new buffer capacity: 4096
+DirectBufferCache: allocated a new buffer capacity: 4096
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+DirectBufferCache: allocated a new buffer capacity: 4096
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+DirectBufferCache: allocated a new buffer capacity: 4096
+DirectBufferCache: allocated a new buffer capacity: 4096
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+DirectBufferCache: allocated a new buffer capacity: 4096
+DirectBufferCache: allocated a new buffer capacity: 4096
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+DirectBufferCache: allocated a new buffer capacity: 4096
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+mkdir
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+mknod
+mknod
+mknod
+mknod
+mknod
+mknod
+statfile
+statfile
+statfile
+statdir
+rmnod
+statfile
+statfile
+statdir
+rmnod
+statfile
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+rmdir
+rmdir
+mknod
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+statdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+rmnod
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+statdir
+statdir
+rmnod
+rmnod
+statdir
+rmnod
+mknod
+rmdir
+rmdir
+rmdir
+rmdir
+statfile
+statfile
+statdir
+rmnod
+statdir
+rmnod
+rmdir
+rmdir
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+mknod
+statfile
+statdir
+rmnod
+rmdir
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+mknod
+statfile
+statdir
+rmnod
+rmdir
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+mknod
+statfile
+statdir
+rmnod
+rmdir
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+mknod
+statfile
+statdir
+rmnod
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.104
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+mknod
+rmdir
+statfile
+statdir
+rmnod
+rmdir
+RdmaDataNodePassiveEndpoint: buffer registered of capacity in write : 4096
+mkdir
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.102
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.103
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.100
+ RdmaDataNodePassiveGroup: connecting to /192.168.2.105
+opnum = 3870 time = 332 rate = 11656
+mknod
+mknod
+opnum = 23220 time = 2010 rate = 11552
+statfile
+statfile
+opnum = 23220 time = 171 rate = 135789
+statdir
+statdir
+opnum = 3870 time = 5 rate = 774000
+rmnod
+rmnod
+opnum = 23220 time = 1843 rate = 12599
+rmdir
+rmdir
+opnum = 3870 time = 5 rate = 774000
+./runcrail.sh: line 7: 31973 Killed                  /usr/local/openmpi/bin/mpirun --allow-run-as-root --hostfile mfile -np $i /home/chenyoumin/jdk1.8.0_101/bin/java -classpath .:/home/chenyoumin/crail/jars/crail-client-1.0.jar:/home/chenyoumin/crail/jars/log4j-1.2.17.jar:/home/chenyoumin/crail/jars/slf4j-api-1.7.5.jar:/home/chenyoumin/crail/jars/slf4j-log4j12-1.7.12.jar:/home/chenyoumin/crail/jars/crail-storage-rdma-1.0.jar:/home/chenyoumin/crail/jars/disni-1.0.jar:/home/chenyoumin/crail/jars/darpc-1.0.jar:/home/chenyoumin/crail/jars/crail-rpc-darpc-1.0.jar CrailPerformance
+round 16

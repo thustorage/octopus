@@ -1,0 +1,168 @@
+round 1
+opnum = 9840 time = 5056 rate = 1946
+opnum = 29520 time = 95215 rate = 310
+opnum = 29520 time = 7196 rate = 4102
+opnum = 9840 time = 3751 rate = 2623
+opnum = 29520 time = 7766 rate = 3801
+opnum = 9840 time = 2140 rate = 4598
+round 2
+opnum = 19680 time = 5210 rate = 3777
+opnum = 59040 time = 95554 rate = 617
+opnum = 59040 time = 7752 rate = 7616
+opnum = 19680 time = 3695 rate = 5326
+opnum = 59040 time = 8190 rate = 7208
+opnum = 19680 time = 2632 rate = 7477
+round 3
+opnum = 29520 time = 3710 rate = 7956
+opnum = 88560 time = 25191 rate = 3515
+opnum = 88560 time = 4648 rate = 19053
+opnum = 29520 time = 2287 rate = 12907
+opnum = 88560 time = 5840 rate = 15164
+opnum = 29520 time = 1526 rate = 19344
+round 4
+opnum = 39360 time = 3344 rate = 11770
+opnum = 118080 time = 21677 rate = 5447
+opnum = 118080 time = 4046 rate = 29184
+opnum = 39360 time = 2025 rate = 19437
+opnum = 118080 time = 5522 rate = 21383
+opnum = 39360 time = 1436 rate = 27409
+round 5
+opnum = 49200 time = 3175 rate = 15496
+opnum = 147600 time = 20273 rate = 7280
+opnum = 147600 time = 3538 rate = 41718
+opnum = 49200 time = 1839 rate = 26753
+opnum = 147600 time = 4278 rate = 34502
+opnum = 49200 time = 1125 rate = 43733
+round 6
+opnum = 59040 time = 2929 rate = 20157
+opnum = 177120 time = 20131 rate = 8798
+opnum = 177120 time = 3356 rate = 52777
+opnum = 59040 time = 1553 rate = 38016
+opnum = 177120 time = 5019 rate = 35289
+opnum = 59040 time = 1181 rate = 49991
+round 7
+opnum = 68880 time = 2997 rate = 22982
+opnum = 206640 time = 18286 rate = 11300
+opnum = 206640 time = 3567 rate = 57931
+opnum = 68880 time = 2086 rate = 33020
+opnum = 206640 time = 5432 rate = 38041
+opnum = 68880 time = 1897 rate = 36309
+round 8
+opnum = 78720 time = 3573 rate = 22031
+opnum = 236160 time = 17540 rate = 13464
+opnum = 236160 time = 3588 rate = 65819
+opnum = 78720 time = 2255 rate = 34909
+opnum = 236160 time = 5855 rate = 40334
+opnum = 78720 time = 1659 rate = 47450
+round 9
+opnum = 88560 time = 5651 rate = 15671
+opnum = 265680 time = 18078 rate = 14696
+opnum = 265680 time = 3549 rate = 74860
+opnum = 88560 time = 2555 rate = 34661
+opnum = 265680 time = 8174 rate = 32503
+opnum = 88560 time = 1941 rate = 45625
+round 10
+opnum = 98400 time = 7213 rate = 13642
+opnum = 295200 time = 18634 rate = 15842
+opnum = 295200 time = 4211 rate = 70102
+opnum = 98400 time = 2334 rate = 42159
+opnum = 295200 time = 22009 rate = 13412
+opnum = 98400 time = 3990 rate = 24661
+round 11
+opnum = 108240 time = 10064 rate = 10755
+opnum = 324720 time = 20912 rate = 15527
+opnum = 324720 time = 3954 rate = 82124
+opnum = 108240 time = 3735 rate = 28979
+opnum = 324720 time = 26483 rate = 12261
+opnum = 108240 time = 5224 rate = 20719
+round 12
+opnum = 118080 time = 13601 rate = 8681
+opnum = 354240 time = 43610 rate = 8122
+opnum = 354240 time = 4324 rate = 81924
+opnum = 118080 time = 5027 rate = 23489
+opnum = 354240 time = 35962 rate = 9850
+opnum = 118080 time = 3565 rate = 33122
+round 13
+opnum = 127920 time = 14200 rate = 9008
+opnum = 383760 time = 57764 rate = 6643
+opnum = 383760 time = 4486 rate = 85546
+opnum = 127920 time = 7486 rate = 17087
+opnum = 383760 time = 37000 rate = 10371
+opnum = 127920 time = 3406 rate = 37557
+round 14
+opnum = 137760 time = 16417 rate = 8391
+opnum = 413280 time = 63669 rate = 6491
+opnum = 413280 time = 4823 rate = 85689
+opnum = 137760 time = 6329 rate = 21766
+opnum = 413280 time = 40241 rate = 10270
+opnum = 137760 time = 6652 rate = 20709
+round 15
+opnum = 147600 time = 16735 rate = 8819
+opnum = 442800 time = 67455 rate = 6564
+opnum = 442800 time = 4694 rate = 94333
+opnum = 147600 time = 3633 rate = 40627
+opnum = 442800 time = 42218 rate = 10488
+opnum = 147600 time = 7111 rate = 20756
+round 16
+opnum = 157440 time = 17852 rate = 8819
+opnum = 472320 time = 78982 rate = 5980
+opnum = 472320 time = 5408 rate = 87337
+opnum = 157440 time = 3616 rate = 43539
+opnum = 472320 time = 46521 rate = 10152
+opnum = 157440 time = 8344 rate = 18868
+round 17
+opnum = 167280 time = 20203 rate = 8279
+opnum = 501840 time = 79225 rate = 6334
+opnum = 501840 time = 7532 rate = 66627
+opnum = 167280 time = 3754 rate = 44560
+opnum = 501840 time = 45529 rate = 11022
+opnum = 167280 time = 10494 rate = 15940
+round 18
+opnum = 177120 time = 21078 rate = 8403
+opnum = 531360 time = 85024 rate = 6249
+opnum = 531360 time = 5898 rate = 90091
+opnum = 177120 time = 4889 rate = 36228
+opnum = 531360 time = 49043 rate = 10834
+opnum = 177120 time = 4153 rate = 42648
+round 19
+opnum = 186960 time = 21386 rate = 8742
+opnum = 560880 time = 82419 rate = 6805
+opnum = 560880 time = 6928 rate = 80958
+opnum = 186960 time = 9457 rate = 19769
+opnum = 560880 time = 53931 rate = 10399
+opnum = 186960 time = 3625 rate = 51575
+round 20
+opnum = 196800 time = 21375 rate = 9207
+opnum = 590400 time = 85597 rate = 6897
+opnum = 590400 time = 7425 rate = 79515
+opnum = 196800 time = 7128 rate = 27609
+opnum = 590400 time = 57606 rate = 10248
+opnum = 196800 time = 6364 rate = 30923
+round 21
+opnum = 206640 time = 24704 rate = 8364
+opnum = 619920 time = 101850 rate = 6086
+opnum = 619920 time = 7670 rate = 80823
+opnum = 206640 time = 5929 rate = 34852
+opnum = 619920 time = 57677 rate = 10748
+opnum = 206640 time = 7402 rate = 27916
+round 22
+opnum = 216480 time = 26161 rate = 8274
+opnum = 649440 time = 102231 rate = 6352
+opnum = 649440 time = 8507 rate = 76341
+opnum = 216480 time = 4821 rate = 44903
+opnum = 649440 time = 62687 rate = 10360
+opnum = 216480 time = 9374 rate = 23093
+round 23
+opnum = 226320 time = 23487 rate = 9635
+opnum = 678960 time = 108271 rate = 6270
+opnum = 678960 time = 10104 rate = 67197
+opnum = 226320 time = 4759 rate = 47556
+opnum = 678960 time = 65803 rate = 10318
+opnum = 226320 time = 8616 rate = 26267
+round 24
+opnum = 236160 time = 25551 rate = 9242
+opnum = 708480 time = 113533 rate = 6240
+opnum = 708480 time = 9898 rate = 71578
+opnum = 236160 time = 6230 rate = 37906
+opnum = 708480 time = 70204 rate = 10091
+opnum = 236160 time = 5756 rate = 41028
